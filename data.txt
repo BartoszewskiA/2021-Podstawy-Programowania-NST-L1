@@ -1,0 +1,7 @@
+Kacper 1000
+Hubert 200
+Janusz 100
+Bogdan 400
+Oskar 300
+Eryk 70
+aaa 20
