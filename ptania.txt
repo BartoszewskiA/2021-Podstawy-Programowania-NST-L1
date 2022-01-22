@@ -1,0 +1,14 @@
+Jle jest 2x2?
+4
+5
+4,5
+1
+Jak mial na imie Juliusz Cezar?
+Juliusz
+Gajusz
+Cezar
+2
+Pamiec opearcyjna wykonana jest za pomoca:
+ROM
+CACHE
+RAM
